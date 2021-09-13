@@ -1,0 +1,46 @@
+.sobre-ctn {
+  margin-bottom: 6rem;
+}
+.sobre-ctn.right {
+  animation: right 0.5s forwards;
+}
+.sobre {
+  max-width: 62rem;
+  margin: 0 auto;
+  border-radius: 4px;
+  padding: 1rem;
+  background: #f3f3f3;
+  background: rgba(255, 255, 255, 0.3);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}
+
+.sobre-txt {
+  margin: 2rem 2rem 2rem 2rem;
+  font-size: 1.2rem;
+  letter-spacing: 1px;
+  line-height: 30px;
+}
+
+.sobre-txt span,
+.sobre-txt span a {
+  color: #e7497b;
+}
+@media (max-width: 1100px) {
+  .sobre-ctn {
+    margin: 4rem;
+  }
+}
+@media (max-width: 770px) {
+  .sobre-ctn {
+    margin: 0 1rem 2rem 1rem;
+  }
+  .sobre-txt {
+    font-size: 1rem;
+    letter-spacing: 0;
+  }
+  .contato {
+    margin: 0 1rem;
+  }
+}
