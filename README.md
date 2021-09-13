@@ -1,4 +1,4 @@
-# Borges-Web-Site-Moderno
+#Site-Moderno-Divulgação
 
 Este é um site de divulgação do meu trabalho feito do zero, ele segue estilos modernos e de padrões UI/UX, foi usado na sua construção apenas html5, css3 e Javascript puro.
 
