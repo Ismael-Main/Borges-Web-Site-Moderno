@@ -34,7 +34,7 @@
 
 @media (max-width: 1100px) {
   .logo {
-    margin: 0 0.5rem 0 0.5rem;
+    margin: 15px 0.5rem 0 0.5rem;
   }
   .menu-lista {
     display: none;
