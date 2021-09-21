@@ -11,7 +11,7 @@
   align-items: center;
   padding: 20px;
   letter-spacing: 3px;
-  margin: 0 2rem 0 2rem;
+  margin: 15px 2rem 0 2rem;
   color: #fff;
 }
 
@@ -48,7 +48,7 @@
 
 .menu-mobile-icone {
   display: none;
-  margin: 20px 2rem 0 2rem;
+  margin:15px 2rem 0 2rem;
   align-items: center;
   width: 40px;
   height: 38px;
