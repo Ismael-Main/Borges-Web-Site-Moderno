@@ -12,8 +12,10 @@
   box-sizing: border-box;
   background: #ffff;
 }
-
-.botao:hover {
+.botao a {
+  color: #000;
+}
+.botao a:hover {
   color: #425ef9;
   border: none;
   cursor: pointer;
